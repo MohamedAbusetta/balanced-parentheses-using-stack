@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507939429 source:e:\c codes\balanced\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
